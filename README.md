@@ -58,8 +58,8 @@ This landing page was developed as part of a Next.js Developer Assignment focusi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/i-am-bharathkumar/WebbyWolf.git
-   cd webby-wolf-landing
+   git clone https://github.com/i-am-bharathkumar/webbywolf.git
+   cd webbywolf
    ```
 
 2. **Install dependencies**
@@ -159,16 +159,16 @@ npm start
 ## 👨‍💻 Developer
 
 **Your Name**
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/myself-bharath-kumar)
-- GitHub: [Your GitHub](https://github.com/i-am-bharathkumar)
+- Portfolio: [My PortFolio](https://your-portfolio.com)
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/myself-bharath-kumar)
+- GitHub: [My GitHub](https://github.com/i-am-bharathkumar)
 
 ## 📞 Contact
 
 For any questions or feedback regarding this project:
 
 - **Email:** myself.bharathkumar@gmail.com
-- **Project Link:** [https://github.com/yourusername/webby-wolf-landing](https://github.com/i-am-bharathkumar/webbywolf)
+- **Project Link:** [https://github.com/i-am-bharathkumar/webbywolf](https://github.com/i-am-bharathkumar/webbywolf)
 
 ---
 
