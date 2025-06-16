@@ -159,7 +159,7 @@ npm start
 ## 👨‍💻 Developer
 
 **Your Name**
-- Portfolio: [My PortFolio](https://your-portfolio.com)
+- Portfolio: [My PortFolio](https://portfoliofobk.netlify.app/)
 - LinkedIn: [My LinkedIn](https://linkedin.com/in/myself-bharath-kumar)
 - GitHub: [My GitHub](https://github.com/i-am-bharathkumar)
 
